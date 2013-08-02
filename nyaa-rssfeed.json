@@ -1,0 +1,7 @@
+{
+	"app_keys" : ["CONSUMER_KEY_HERE", "CONSUMER_SECRET_HERE"],
+	"twitter" : ["ACCESS_KEY_HERE", "ACCESS_SECRET_HERE"],
+	"twitter_test" : ["TEST_ACCESS_KEY_HERE", "TEST_ACCESS_SECRET_HERE"],
+	"titles" : ["LIST_OF_TITLES_HERE"],
+	"tags" : ["LIST_OF_UPLOADER_TAGS_HERE"]
+}
