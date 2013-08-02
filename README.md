@@ -7,10 +7,6 @@ Another Twitter application part of Automation Project. What this does is:
 
 # Requirements
 * Python 2.x (2.7 recommended)
-	* [python-twitter](https://github.com/bear/python-twitter)
-		* [SimpleJson](http://cheeseshop.python.org/pypi/simplejson)
-		* [SimpleGeo's OAuth2](http://github.com/simplegeo/python-oauth2) or [OAuth2](http://pypi.python.org/pypi/oauth2)
-		* [HTTPLib2](http://code.google.com/p/httplib2/)
 
 # Libraries used
 * Python
