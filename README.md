@@ -1,4 +1,21 @@
-nyaa-rssfeed
-============
+# nyaa-rssfeed
 
-Another Twitter application part of Automation Project.
+Another Twitter application part of Automation Project. What this does is:
+1. Fetch latest RSS feed from [nyaa.eu](http://nyaa.eu/?page=rss)
+2. Filter the RSS feed based on the title and uploader tag
+3. Filtered RSS feed is then cached and posted automatically to Twitter
+
+# Requirements
+* Python 2.x (2.7 recommended)
+	* [python-twitter](https://github.com/bear/python-twitter)
+		* [SimpleJson](http://cheeseshop.python.org/pypi/simplejson)
+		* [SimpleGeo's OAuth2](http://github.com/simplegeo/python-oauth2) or [OAuth2](http://pypi.python.org/pypi/oauth2)
+		* [HTTPLib2](http://code.google.com/p/httplib2/)
+
+# Libraries used
+* Python
+	* [python-twitter](https://github.com/bear/python-twitter)
+
+# Changelog
+* 08/02/2013
+	* First release
